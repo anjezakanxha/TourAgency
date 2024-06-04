@@ -1,0 +1,39 @@
+.BackVideo{
+    position: absolute;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.hero>h1{
+   margin-left: 49%;
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: rgb(0, 70, 128);
+   font-size: 40px;
+   letter-spacing: 8px;
+   background-color: aliceblue;
+    
+}
+
+#orderForm{
+    width: 40%;
+    height: 60%;
+   margin-left: 51%;
+   margin-bottom: 4%;
+    padding-left: 100px;
+   box-shadow: 10px 10px 15px white;
+   background-color: rgba(254, 254, 254, 0.623);
+}
+#orderForm>div{
+    padding: 8px;
+}
+#butoni:hover{
+background-color: green;
+box-shadow: 10px 10px 10px green;
+}
+#butoni:visited{
+    background-color: rgb(117, 0, 128);
+   
+    }
+

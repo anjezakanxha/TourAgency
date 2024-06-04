@@ -1,0 +1,23 @@
+.BackVideo{
+    position: absolute;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+#orderForm{
+    padding: auto;
+    width: 50%;
+    height: 60%;
+   margin-left: 10%;
+   margin-top: 20%;
+    padding-left: 100px;
+   box-shadow: 10px 10px 15px white;
+   background-color: rgba(254, 254, 254, 0.623);
+   text-align: center;
+   
+}
+#orderForm>div{
+  
+    padding: 10px;
+}
